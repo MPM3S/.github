@@ -1,8 +1,8 @@
-# Welcome to A Material Point Soil Structure Interaction Environment  (AMPSSIE)
+# Welcome to A Material Point Method Soil Structure interaction 3D simulator (MPMS3)
 
-AMPSSIE is an organisation for the modelling of highly deformable objects, using Material Points, interacting with rigid structures. It contains packages for all separable components which can either be used together or separately for other numerical methods.
+MPMS3 is an organisation for the modelling of highly deformable objects, using Material Points, interacting with rigid structures. It contains packages for all separable components which can either be used together or separately for other numerical methods.
 
-Feel free to visit our website [ampssie.github.io/](https://ampssie.github.io/ "https://ampssie.github.io/") for more information and updates to the project.
+Feel free to visit our website [mpm3s.github.io/](https://mpm3s.github.io/ "https://mpm3s.github.io/") for more information and updates to the project.
 
 #### Acknowledgements
 
