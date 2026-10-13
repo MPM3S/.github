@@ -1,6 +1,6 @@
-# Welcome to a Material Point Method Soil Structure interaction 3D simulator (MPMS3)
+# Welcome to a Material Point Method Soil Structure interaction 3D simulator (MPM3S)
 
-MPMS3 is an organisation for the modelling of highly deformable objects, using Material Points, interacting with rigid structures. It contains packages for all separable components which can either be used together or separately for other numerical methods.
+MPM3S is an organisation for the modelling of highly deformable objects, using Material Points, interacting with rigid structures. It contains packages for all separable components which can either be used together or separately for other numerical methods.
 
 Feel free to visit our website [mpm3s.github.io/](https://mpm3s.github.io/ "https://mpm3s.github.io/") for more information and updates to the project.
 
